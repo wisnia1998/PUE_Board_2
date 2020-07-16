@@ -1,0 +1,29 @@
+Added Component: Designator=PR2(3386F)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://datasheet.octopart.com/3386F-1-503LF-Bourns-datasheet-375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3386F-1-503LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_50k_3386F_10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_Footprint"; Value = "3386F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5222435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "9354719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "652-3386F-1-503LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "3386F-503LF-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPR601_1 Pin=PR2-1
+Added Pin To Net: NetName=NetPR601_1 Pin=PR2-3
+Change Net Name : Old Net Name=NetPR601_1 New Net Name=NetPR2_1
+Added Pin To Net: NetName=NetPR2_2 Pin=PR2-2
+Added Pin To Net: NetName=NetPR2_2 Pin=R604-1
+Added Net: Name=NetPR2_2
+Added Member To Class: ClassName=PART6_Step_Up_PSU Member=Component PR2 Resistor

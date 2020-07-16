@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND03 Pin=PR301-1
+Removed Pin From Net: NetName=V_ADJ31 Pin=PR301-2
+Removed Pin From Net: NetName=GND03 Pin=PR301-3
+Removed Member From Class: ClassName=PART3_Volt_Reg Member=PR301
+Added Component: Designator=PR1(3386F)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.tme.eu/Document/a7f9905f4409d43d0afe7734162b2c05/3386.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3386F-1-102LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_1k_3386F_10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_Footprint"; Value = "3386F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3386F-1-102LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5222205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "9354530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "652-3386F-1-102LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "3386F-102LF-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND03 Pin=PR1-1
+Added Pin To Net: NetName=V_ADJ31 Pin=PR1-2
+Added Pin To Net: NetName=GND03 Pin=PR1-3
+Added Member To Class: ClassName=PART3_Volt_Reg Member=Component PR1 Resistor
