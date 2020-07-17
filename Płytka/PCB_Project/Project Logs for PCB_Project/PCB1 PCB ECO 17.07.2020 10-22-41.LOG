@@ -1,0 +1,27 @@
+Added Component: Designator=C703(C_0805_2012)
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.tme.eu/pl/Document/943bdb20b23b898c4d4b2ec4eca4f2b6/cauto.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08055C104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C_100nF_50V_X7R_0805_10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "08055C104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD701_2 Pin=C703-1
+Added Pin To Net: NetName=GND07 Pin=C703-2
+Change Net Name : Old Net Name=NetD701_2 New Net Name=NetC703_1
+Added Member To Class: ClassName=PART7_op_amp Member=Component C703 Ceramic X7R
+Added Member To Class: ClassName=PART7_op_amp Member=Component U701 MCP6001UT-IOT
