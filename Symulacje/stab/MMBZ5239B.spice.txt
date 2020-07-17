@@ -1,0 +1,11 @@
+*SRC=MMBZ5239B;DI_MMBZ5239B;Diodes;Zener <=10V; 9.10V  0.350W   Diodes Inc. 
+*SYM=HZEN
+.SUBCKT DI_MMBZ5239B  1 2
+*        Terminals    A   K
+D1 1 2 DF
+DZ 3 1 DR
+VZ 2 3 6.69
+.MODEL DF D ( IS=15.8p RS=32.3 N=1.10
++ CJO=27.8p VJ=0.750 M=0.330 TT=50.1n )
+.MODEL DR D ( IS=3.17f RS=6.11 N=3.00 )
+.ENDS
