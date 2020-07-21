@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC601_1 Pin=R602-1
+Added Pin To Net: NetName=NetC601_1 Pin=R603-1
+Added Pin To Net: NetName=NetC601_1 Pin=U601-6
+Added Member To Class: ClassName=PART6_Step_Up_PSU Member=Component D602 RS1BL fast rectifier
