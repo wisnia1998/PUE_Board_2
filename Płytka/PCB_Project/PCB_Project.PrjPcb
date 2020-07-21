@@ -73,9 +73,9 @@ DocumentUniqueId=FYJKUWGX
 
 [Document3]
 DocumentPath=..\PART3_Volt_Reg.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=301
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -143,7 +143,7 @@ DocumentUniqueId=FPTRWONJ
 DocumentPath=..\PART7_op_amp.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=701
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=7
@@ -209,9 +209,9 @@ DocumentUniqueId=WEDAMTBE
 
 [Document11]
 DocumentPath=..\PART11_Rectifier.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1101
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=11
