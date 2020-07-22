@@ -124,8 +124,8 @@ DocumentUniqueId=MAGGYFFS
 
 [Document6]
 DocumentPath=..\PART6_Step_Up_PSU.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=601
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -141,7 +141,7 @@ DocumentUniqueId=FPTRWONJ
 
 [Document7]
 DocumentPath=..\PART7_op_amp.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=701
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -257,6 +257,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZIJPGWT
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
