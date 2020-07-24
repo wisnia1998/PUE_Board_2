@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : E:\Praktyki\PUE_Board_2\P³ytka\PCB1.PcbDoc
-Date     : 22.07.2020
-Time     : 15:16:59
+Date     : 24.07.2020
+Time     : 10:55:21
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,37 +15,70 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.152mm) (Max=5.08mm) (Preferred=0.152mm) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=6mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.152mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=30mm) (All)
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=1181.102mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.025mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All)
+Processing Rule : Room PART4_CMOS_Driver (Bounding Region = (4840mil, 1720mil, 6985mil, 2195mil) (InComponentClass('PART4_CMOS_Driver'))
+Rule Violations :0
+
+Processing Rule : Room PART7_op_amp (Bounding Region = (3296mil, 1870mil, 4015mil, 4980mil) (InComponentClass('PART7_op_amp'))
+Rule Violations :0
+
+Processing Rule : Room PART2_zener_stab (Bounding Region = (1019mil, 2038mil, 3249mil, 2750mil) (InComponentClass('PART2_zener_stab'))
+Rule Violations :0
+
+Processing Rule : Room PART1_filters (Bounding Region = (1019mil, 2791mil, 3249mil, 4980mil) (InComponentClass('PART1_filters'))
+Rule Violations :0
+
+Processing Rule : Room PART11_Rectifier (Bounding Region = (4840mil, 1040mil, 6985mil, 1675mil) (InComponentClass('PART11_Rectifier'))
+Rule Violations :0
+
+Processing Rule : Room PART9_0_Volt_Protec_Simple (Bounding Region = (3296mil, 1354mil, 4794mil, 1827.879mil) (InComponentClass('PART9_0_Volt_Protec_Simple'))
+Rule Violations :0
+
+Processing Rule : Room PART10_Ast_Multivib_w_DC_DC_COnv (Bounding Region = (1019mil, 393.457mil, 4796mil, 1314.457mil) (InComponentClass('PART10_Ast_Multivib_w_DC_DC_COnv'))
+Rule Violations :0
+
+Processing Rule : Room PART3_Volt_Reg (Bounding Region = (1019mil, 1354mil, 3249mil, 1988mil) (InComponentClass('PART3_Volt_Reg'))
+Rule Violations :0
+
+Processing Rule : Room PART5_Step_Down_PSU (Bounding Region = (4840mil, 2240mil, 6985mil, 3620mil) (InComponentClass('PART5_Step_Down_PSU'))
+Rule Violations :0
+
+Processing Rule : Room PART6_Step_Up_PSU (Bounding Region = (4840mil, 3664mil, 6985mil, 4980mil) (InComponentClass('PART6_Step_Up_PSU'))
+Rule Violations :0
+
+Processing Rule : Room PART8_Volt_Multipl (Bounding Region = (4059mil, 1872mil, 4795mil, 4980mil) (InComponentClass('PART8_Volt_Multipl'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3937.008mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
